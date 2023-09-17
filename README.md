@@ -1,1 +1,1 @@
-# bankisk.github.io
+# bankist.github.io
